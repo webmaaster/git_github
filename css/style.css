@@ -1,0 +1,12 @@
+body {
+    background-color: crimson;
+    color: white;
+    margin: 100px;
+    padding: 50px;
+    border: 1px gold solid;
+
+}
+
+h1, h2, h3 {
+    color: black;
+}
